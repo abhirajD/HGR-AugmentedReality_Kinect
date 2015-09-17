@@ -1,0 +1,35 @@
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\bin\Debug\WPFDepth.exe
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\bin\Debug\WPFDepth.pdb
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.baml
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.g.cs
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\App.g.cs
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth_MarkupCompile.cache
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.g.resources
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.exe
+c:\users\mike\documents\visual studio 2010\Projects\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.exe
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\bin\Debug\WPFDepth.exe
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\bin\Debug\WPFDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.csprojResolveAssemblyReference.cache
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.baml
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\App.g.cs
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth_MarkupCompile.cache
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.g.resources
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.Properties.Resources.resources
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.csproj.GenerateResource.Cache
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.exe
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.pdb
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.csprojResolveAssemblyReference.cache
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.baml
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\App.g.cs
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth_MarkupCompile.cache
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.g.resources
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.Properties.Resources.resources
+D:\Kinect\kinectDepth\WPFDepth\WPFDepth\obj\x86\Debug\WPFDepth.csproj.GenerateResource.Cache

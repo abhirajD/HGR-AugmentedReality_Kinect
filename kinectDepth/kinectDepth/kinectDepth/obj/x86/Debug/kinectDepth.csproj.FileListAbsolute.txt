@@ -1,0 +1,23 @@
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Form1.resources
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\bin\Debug\kinectDepth.exe
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\bin\Debug\kinectDepth.pdb
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.exe
+c:\users\mike\documents\visual studio 2010\Projects\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.exe
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\bin\Debug\kinectDepth.exe
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\bin\Debug\kinectDepth.pdb
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.csprojResolveAssemblyReference.cache
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Form1.resources
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Properties.Resources.resources
+C:\Users\mike.james\Documents\Visual Studio 2010\Projects\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.csproj.GenerateResource.Cache
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.exe
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.pdb
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.csprojResolveAssemblyReference.cache
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Form1.resources
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.Properties.Resources.resources
+D:\Kinect\kinectDepth\kinectDepth\kinectDepth\obj\x86\Debug\kinectDepth.csproj.GenerateResource.Cache
